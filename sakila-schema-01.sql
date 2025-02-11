@@ -18,7 +18,7 @@ SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='TRADITIONAL';
 
 #DROP SCHEMA IF EXISTS sakila;
 #CREATE SCHEMA sakila;
-USE sakila;
+#USE sakila;
 
 --
 -- Table structure for table `actor`
