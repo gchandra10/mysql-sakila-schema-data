@@ -414,7 +414,7 @@ ORDER BY total_sales DESC;
 -- View structure for view `actor_info`
 --
 
-CREATE DEFINER=CURRENT_USER SQL SECURITY INVOKER VIEW actor_info
+CREATE VIEW actor_info
 AS
 SELECT
 a.actor_id,
